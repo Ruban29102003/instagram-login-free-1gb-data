@@ -25,7 +25,7 @@ STATIC_DIR = os.path.join(BASE_DIR2,'static')
 SECRET_KEY = 'django-insecure-ql#!2d#k1c^9dyim!h2m+riv3r_!(&1ll$!rhs(=03lz8o(n#r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://instagram-login-free-1gb-data.herokuapp.com/','localhost','127.0.0.1']
 
